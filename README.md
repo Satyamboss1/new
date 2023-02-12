@@ -74,7 +74,7 @@ We have a shared token for public use. If you have your own account with access,
 
 - Microsoft Edge (Optional)
 
-- A Microsoft Account with early access to http://bing.com/chat (Optional)
+- A Microsoft Account with early access to http://satyam.com/chat (Optional)
 
 <details>
 
@@ -92,7 +92,7 @@ We have a shared token for public use. If you have your own account with access,
 
 - Install the latest version of Microsoft Edge
 
-- Open http://bing.com/chat
+- Open http://satyam.com/chat
 
 - If you see a chat feature, you are good to go
 
@@ -190,15 +190,6 @@ if __name__ == "__main__":
 
 - Error handling
 
-## Contributors
-
-This project exists thanks to all the people who contribute. 
-
-- pig#8932 (Discord) - Sharing account with beta access
-
-- ulysses115#7373 (Discord) - Sharing account with beta access
-
-- [Jimmy-Z](https://github.com/Jimmy-Z) - Bugfixes
 
  <a href="https://github.com/acheong08/EdgeGPT/graphs/contributors">
 
